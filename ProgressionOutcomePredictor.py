@@ -1,4 +1,3 @@
-
 from graphics import GraphWin, Rectangle, Point, Text
 
 def show_progression(pass_credits, defer_credits, fail_credits):
